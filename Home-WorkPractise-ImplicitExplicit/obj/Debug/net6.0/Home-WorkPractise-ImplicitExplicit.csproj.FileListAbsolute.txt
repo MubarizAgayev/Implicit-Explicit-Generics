@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\bin\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.exe
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\bin\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\bin\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\bin\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\bin\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\obj\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\obj\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\obj\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\obj\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\obj\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\obj\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\obj\Debug\net6.0\refint\Home-WorkPractise-ImplicitExplicit.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\obj\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\obj\Debug\net6.0\Home-WorkPractise-ImplicitExplicit.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\Home-WorkPractise-ImplicitExplicit\Home-WorkPractise-ImplicitExplicit\obj\Debug\net6.0\ref\Home-WorkPractise-ImplicitExplicit.dll
